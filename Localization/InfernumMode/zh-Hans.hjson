@@ -527,8 +527,8 @@ Mods: {
 			AbyssalIce.DisplayName: Abyssal Ice
 			BoxJellyZap.DisplayName: Jelly Zap
 			DevilfishExplosion.DisplayName: Devilburst
-			EidolistElectricOrb.DisplayName: Electric Orb
-			EidolistElectricOrb2.DisplayName: Electric Orb
+			EidolistElectricOrb.DisplayName: 闪电珠
+			EidolistElectricOrb2.DisplayName: 闪电珠
 			EidolistIce.DisplayName: Abyssal Ice
 			EidolistIceBomb.DisplayName: Abyssal Ice
 			EidolistLightning.DisplayName: 闪电
@@ -563,7 +563,7 @@ Mods: {
 			RadiationPulse.DisplayName: 辐射脉冲
 			SulphuricGas.DisplayName: 硫酸气体
 			SulphuricGasDebuff.DisplayName: 硫酸气体
-			SulphuricTornado.DisplayName: Sulphuric Typhoon
+			SulphuricTornado.DisplayName: 硫海龙卷
 			SulphurousRockRubble.DisplayName: Sulphuric Rubble
 			WaterClearingBubble.DisplayName: 酸性气泡
 			AstralBlueComet.DisplayName: Astral Comet
@@ -583,23 +583,23 @@ Mods: {
 			AstralTelegraphLine.DisplayName: Telegraph
 			AstralVortex.DisplayName: Consumed Vortex
 			DarkGodLaser.DisplayName: Antimatter Deathray
-			DarkStar.DisplayName: Dark Star
+			DarkStar.DisplayName: 暗星
 			InfectionGlob.DisplayName: Infection Glob
 			MassiveInfectedStar.DisplayName: Consumed Star
-			BloodGeyser2.DisplayName: Ichor Geyser
-			IchorSpit.DisplayName: Ichor
+			BloodGeyser2.DisplayName: 灵液间歇泉
+			IchorSpit.DisplayName: 灵液
 			PsionicLightningBolt.DisplayName: Psionic Lightning Bolt
 			PsionicOrb.DisplayName: Psychic Energy
 			Brimrose.DisplayName: 硫火玫瑰
 			BrimstoneDeathray.DisplayName: 硫火射线
 			BrimstoneFireball.DisplayName: 硫磺火球
-			BrimstonePetal.DisplayName: Brimstone Petal
-			BrimstonePetal2.DisplayName: Brimstone Petal
+			BrimstonePetal.DisplayName: 硫火花瓣
+			BrimstonePetal2.DisplayName: 硫火花瓣
 			BrimstoneRose.DisplayName: 硫火玫瑰
-			BrimstoneSkull.DisplayName: Brimstone Skull
-			BrimstoneTelegraphRay.DisplayName: Brimstone Deathray
+			BrimstoneSkull.DisplayName: 硫火头骨
+			BrimstoneTelegraphRay.DisplayName: 硫火死亡激光
 			HomingBrimstoneSkull.DisplayName: Brimstone Hellblast
-			RedFlameTelegraph.DisplayName: Fuck you nobody is going to ever see this name
+			RedFlameTelegraph.DisplayName: 去你*的没人应该看见这个名字Fuck you nobody is going to ever see this name
 			AccentuationHexProj.DisplayName: Calamitous Hex
 			ArcingBrimstoneDart.DisplayName: Brimstone Dart
 			BrimstoneBomb.DisplayName: 硫火炸弹
